@@ -7,17 +7,9 @@ Department of Chemical Engineering, IIT (BHU) Varanasi
 ---
 
 ## 🔎 Project Overview  
-This project focused on building a **reaction–diffusion model** for corneal wound healing regulated by **Epidermal Growth Factor (EGF)**. The model describes how EGF concentration and cell density evolve during the healing process, incorporating mechanisms such as **migration, mitosis, and degradation**.  
-
-The work was implemented and solved using **COMSOL Multiphysics**, providing numerical solutions and visualisations of the wound closure process.  
-
----
-
-## 🧩 Key Contributions  
-- Formulated **coupled PDEs** to capture spatio-temporal dynamics of EGF and epithelial cells.  
-- Simulated wound closure patterns by accounting for **cell migration, proliferation, and degradation**.  
-- Demonstrated how **growth factor signalling** influences healing dynamics.  
-- Utilised **COMSOL Multiphysics** for solution and visualisation.  
+- Studied a **reaction–diffusion model** of epithelial wound healing regulated by **epidermal growth factor (EGF)**.  
+- Simulated **coupled PDEs** for EGF and cell density, incorporating **migration, mitosis, and degradation**.  
+- Exploring **modelling approaches** for fatty liver disease to understand mechanisms of **liver regeneration**.  
 
 ---
 
