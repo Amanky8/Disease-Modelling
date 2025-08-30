@@ -22,4 +22,4 @@ Building on this foundation, the next step of the research is to extend these co
 
 ## 📑 Report  
 You can download the full corneal wound healing project report here:  
-[📄 Corneal Wound Healing Report](./report/Disease_Modelling_Report.pdf)  
+[📄 Report](./Disease_Modelling_Report.pdf)  
